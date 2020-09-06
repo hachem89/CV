@@ -1,0 +1,143 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p{
+  line-height: 2;
+}
+
+a {
+  display: inline-block;
+  margin: 10px 10px;
+  text-decoration: none;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+hr {
+  margin: 100px auto;
+  color: #EAF6F6;
+  width: 4%;
+  border-style: dotted;
+  border-bottom: none;
+  border-top-width: 6px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middel-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.bottom-container p {
+  color: #EAF6F6;
+  font-size: .75rem;
+  margin: 20px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 200px;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.my-image {
+  width: 25%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 220px;
+  bottom: 300px;
+}
+
+.gif {
+  width: 25%;
+  border-radius: 10%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.fitness {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.calculator {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact-message {
+  margin: 50px auto;
+  width: 35%;
+}
+
+.email {
+  text-decoration: none;
+  color: #EAF6F6;
+  border-radius: 15px;
+  background-color: #11999E;
+  padding: 10px 30px;
+  font-size: 15px;
+}
+
+.email:hover {
+  background-color: #0070B8;
+}
+
+
+
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+
+}
